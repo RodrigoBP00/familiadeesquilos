@@ -1,4 +1,5 @@
 ## EsquiloWeb: Sua comunidade online de amantes de esquilos! ️
+#imersao-dev-google-gemini "em desenvolvimento na imersão da Allura-Gemini 02/09/2024 a 06/09/2024."
 
 **EsquiloWeb** é uma plataforma para conectar amantes de esquilos do mundo todo. Compartilhe fotos dos seus pets, histórias divertidas e aprenda tudo sobre essas criaturas adoráveis.
 
