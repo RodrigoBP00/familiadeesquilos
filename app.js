@@ -10,7 +10,7 @@ function pesquisar() {
         return
     } 
 
-    campoPesquisaPesquisa = campoPesquisa.toLowerCase()
+    campoPesquisa = campoPesquisa.toLowerCase()
 
     // Inicializa uma string vazia para armazenar os resultados
     let resultados = "";
